@@ -2,6 +2,8 @@
 
 Hace un tiempo descubrí que usar un proxy puede hacer que los precios de los boletos bajen bastante. Al cambiar tu ubicación virtual, puedes acceder a ofertas que normalmente no verías.
 
+**[️🛒️🛒Mua Proxy Ngay](https://9proxy.com/pricing)**
+
 ## Vậy proxy là gì và nó hoạt động thế nào?
 
 Proxy là một “cầu nối” trung gian giúp thiết bị của bạn kết nối Internet thông qua một địa chỉ IP khác, không phải địa chỉ thật. Khi bạn truy cập một trang web, yêu cầu sẽ được gửi qua máy chủ proxy trước, máy chủ này sẽ thay mặt bạn gửi yêu cầu đến trang đích, nhận dữ liệu rồi chuyển lại cho bạn. Nhờ vậy, proxy che giấu địa chỉ IP thật, tạo ra vị trí ảo mới giúp bạn giả lập đang ở một quốc gia hoặc vùng lãnh thổ khác.

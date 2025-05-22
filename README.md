@@ -9,7 +9,7 @@ Proxy là một “cầu nối” trung gian giúp thiết bị của bạn kế
 Nói ngắn gọn, proxy giúp bạn “biến mất” trên mạng và xuất hiện dưới một danh tính mới, mở rộng cơ hội truy cập và săn vé thông minh hơn.
 
 
-![Mua vé máy bay giá rẻ bằng proxy](./0d273a2b-1cdb-4883-980c-b0f1ab2526ec.png)
+![Mua vé máy bay giá rẻ bằng proxy](./tang-gia-ve-may-bay.jpg)
 
 
 ## Mình đã dùng 9Proxy để mua vé máy bay đi Hàn giá rẻ như thế nào?
